@@ -1,0 +1,121 @@
+body {
+    overflow-x: hidden;
+}
+
+.carrier-info {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.carrier-info h3 {
+    font-size: 1.2rem;
+    margin-top: 0;
+}
+
+.general-info-container {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.general-info-heading {
+    font-size: 1.2rem;
+    margin-top: 0;
+}
+
+.general-info-label {
+    display: block;
+    font-size: 1rem;
+    margin-bottom: 5px;
+}
+
+.general-info-input {
+    display: block;
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+
+.general-info-save-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.transport-form {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.transport-form h3 {
+    font-size: 1.2rem;
+    margin-top: 0;
+}
+
+.form-group {
+    margin-bottom: 10px;
+}
+
+.form-group label {
+    display: block;
+    font-size: 1rem;
+    margin-bottom: 5px;
+}
+
+.form-group input {
+    display: block;
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+
+.order-container {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.order-container h3 {
+    font-size: 1.2rem;
+    margin-top: 0;
+}
+
+.order-container h4 {
+    font-size: 1rem;
+    margin-top: 10px;
+}
+
+.car-select {
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.select-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.order-details {
+    margin-bottom: 10px;
+}
+
+.customer-details {
+    font-size: 1rem;
+}
+
+.order-price {
+    font-size: 0.8rem;
+    color: #777;
+}
